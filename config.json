@@ -2,7 +2,7 @@
 {
     "TOKEN": "MTQ2Mjc5Njg5Mjc1MTc5MDA4MQ.Gtj4-4.BhDSTzP0v6dmd6G-PXbwpGJeVsktQLjfELAj4s",
     "PREFIX": "&",
-    "MONGO_DB": "mongodb+srv://BITZXIER:GYllwfJBgRj1HSDJ@bitzxier.wovjk.mongodb.net/?retryWrites=true&w=majority&appName=BITZXIER",
+    "MONGO_DB": "mongodb+srv://yeshwanthchavva1_db_user:ABzxSwZQ99JGedq9@turtlegudha.v5jvhik.mongodb.net/?appName=turtlegudha",
     "developer": [711337750342664242],
     "Beast" : [711337750342664242],
     "cooldown": true,
